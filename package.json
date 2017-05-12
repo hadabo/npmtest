@@ -1,0 +1,30 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "test package for npm",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hadabo/npmtest.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Abdul-hadi Hawari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hadabo/npmtest/issues"
+  },
+  "homepage": "https://github.com/hadabo/npmtest#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
