@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/hadabo/npmtest#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^3.3.0"
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
   }
 }
